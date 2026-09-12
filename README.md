@@ -10,6 +10,7 @@
 
 ## 🛠️ Tools Used
 * **Database Management:** MySQL
+* **Data Visualization:** Power BI
 
 ## 📊 Entity Relationship Diagram (ERD)
 <img width="830" height="606" alt="image" src="https://github.com/user-attachments/assets/041afc8f-53d3-4a60-bc65-d84999617cc3" />
@@ -23,6 +24,11 @@
 * **Subqueries:** To perform calculations and comparisons using intermediate results.
 * **Window Functions:** `LAG()` used to calculate previous year spend.
 * **Set Operations:** `INTERSECT` and `EXCEPT` to compare manufacturer and model performance across different years.
+
+## 📈 POWER BI DASHBOARD
+An interactive dashboard was built to visualize key insights, trends, and operational metrics.
+<img width="853" height="598" alt="image" src="https://github.com/user-attachments/assets/1111973c-77f2-402f-8fef-ac851367023f" />
+
 
 ## 🔍 Key Analysis
 The cellphone transaction data was analyzed by joining information across the customer, location, model, manufacturer, date, and `fact_transactions` tables.
